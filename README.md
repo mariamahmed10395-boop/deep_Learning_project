@@ -17,45 +17,46 @@
 ### 🎬 Project Overview & Results
 
 <p align="center">
-  ▶️ <a href="deeplearning\deep_Learning_project\videos\Recording #12.mp4">Watch the GUI demo</a>
+  ▶️ <a href="videos\Recording #12.mp4">Watch the GUI demo</a>
 </p>
 
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep1.PNG" width="900">
+  <img src="images\deep1.PNG" width="900">
 </p>
 
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep2.PNG" width="900">
+  <img src="images\deep2.PNG" width="900">
 </p>
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep3.PNG" width="900">
+  <img src="images\deep3.PNG" width="900">
 </p>
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep4.PNG" width="900">
+  <img src="images\deep4.PNG" width="900">
 </p>
 
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep5.PNG" width="900">
+  <img src="images\deep5.PNG" width="900">
 </p>
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep6.PNG" width="900">
+  <img src="images\deep6.PNG" width="900">
 </p>
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep7.PNG" width="900">
+  <img src="images\deep7.PNG" width="900">
 </p>
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep8.PNG" width="900">
+  <img src="images\deep8.PNG" width="900">
 </p>
 
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep9.PNG" width="900">
+  <img src="images\deep9.PNG" width="900">
 </p>
 
 <p align="center">
-  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep10.PNG" width="900">
+  <img src="images\deep10.PNG" width="900">
 </p>
+
 ## 🔍 Grid Search Optimization
 
 ### Parameter Exploration
