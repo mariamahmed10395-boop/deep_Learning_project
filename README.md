@@ -16,62 +16,46 @@
 
 ### 🎬 Project Overview & Results
 
-[![Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-_Click the image above to watch the full project demonstration_
-
-**Alternative: Local Video File**
-&lt;video width="640" height="360" controls&gt;
-&lt;source src="./videos/project_demo.mp4" type="video/mp4"&gt;
-Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;/div&gt;
-
----
+<p align="center">
+  ▶️ <a href="deeplearning\deep_Learning_project\videos\Recording #12.mp4">Watch the GUI demo</a>
+</p>
 
 ## 📸 Project Screenshots
 
-### 1. Dataset Overview
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep1.PNG" width="900">
+</p>
 
-&lt;div align="center"&gt;
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep2.PNG" width="900">
+</p>
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep3.PNG" width="900">
+</p>
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep4.PNG" width="900">
+</p>
 
-![MNIST Dataset Samples](./images/mnist_samples.png)
-_Figure 1: Sample images from the MNIST dataset showing handwritten digits (0-9)_
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep5.PNG" width="900">
+</p>
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep6.PNG" width="900">
+</p>
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep7.PNG" width="900">
+</p>
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep8.PNG" width="900">
+</p>
 
-&lt;/div&gt;
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep9.PNG" width="900">
+</p>
 
-### 2. Data Preprocessing & Visualization
-
-&lt;div align="center"&gt;
-
-![Data Preprocessing](./images/data_preprocessing.png)
-_Figure 2: Data normalization process and sample patch visualization_
-
-![Sample Patch](./images/sample_patch.png)
-_Figure 3: Close-up view of a sample image patch (15:20, 5:10)_
-
-&lt;/div&gt;
-
-### 3. Basic Neural Network Architecture
-
-&lt;div align="center"&gt;
-
-![Basic Model Architecture](./images/basic_model_arch.png)
-_Figure 4: Basic Sequential model with 128 hidden units and ReLU activation_
-
-**Basic Model Results:**
-| Metric | Value |
-|--------|-------|
-| **Test Accuracy** | **97.6%** |
-
-![Basic Model Training](./images/basic_model_training.png)
-_Figure 5: Training and validation accuracy/loss curves for the basic model_
-
-&lt;/div&gt;
-
----
-
+<p align="center">
+  <img src="C:\Users\Test\Desktop\deeplearning\deep_Learning_project\images\deep10.PNG" width="900">
+</p>
 ## 🔍 Grid Search Optimization
 
 ### Parameter Exploration

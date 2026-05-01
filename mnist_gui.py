@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 import os
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TF logs
 from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                                QHBoxLayout, QPushButton, QLabel, QFrame)
